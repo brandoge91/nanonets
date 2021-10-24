@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/brandoge91/nanonets-javascript.git",
+  "_id": "nanonets@1.0.12",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/nanonets",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/brandoge91/nanonets-javascript",
+    "rawSpec": "https://github.com/brandoge91/nanonets-javascript",
+    "saveSpec": "git+https://github.com/brandoge91/nanonets-javascript.git",
+    "fetchSpec": "https://github.com/brandoge91/nanonets-javascript.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/brandoge91/nanonets-javascript.git#0e51c22627b607b1c6175b787a168d5cc3e5ed38",
+  "_spec": "https://github.com/brandoge91/nanonets-javascript",
+  "_where": "C:\\Users\\brand\\Desktop\\thingy",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/NanoNets/nanonets-javascript/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "deprecated": false,
+  "description": "Nanonets API Javascript Client",
+  "homepage": "https://nanonets.com/",
+  "keywords": [
+    "nanonets"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "nanonets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanoNets/nanonets-javascript.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.12"
+}
