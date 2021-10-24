@@ -4,6 +4,8 @@
     </a>
 </div>
 
+**The official Nanonets package is broken due to age, so I basically made a replacement**
+
 <h1 align="center">Nanonets nodejs client</h1>
 
 ** **
@@ -25,7 +27,7 @@ To find out about our GUI solution or to get your API key, check out https://app
 ### npm install - 
 Run the following command from your terminal - 
 ```bash
-npm install nanonets
+npm install nanonets https://github.com/brandoge91/nanonets.git
 ```
 ** **
 
